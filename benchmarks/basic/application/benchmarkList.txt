@@ -1,0 +1,11 @@
+cachet-plan-recognition/all/4step.cnf.gz
+cachet-plan-recognition/all/5step.cnf.gz
+cachet-plan-recognition/all/log-1.cnf.gz
+cachet-plan-recognition/all/log-2.cnf.gz
+cachet-plan-recognition/all/log-3.cnf.gz
+cachet-plan-recognition/all/log-4.cnf.gz
+cachet-plan-recognition/all/log-5.cnf.gz
+cachet-plan-recognition/all/tire-1.cnf.gz
+cachet-plan-recognition/all/tire-2.cnf.gz
+cachet-plan-recognition/all/tire-3.cnf.gz
+cachet-plan-recognition/all/tire-4.cnf.gz

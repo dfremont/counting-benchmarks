@@ -1,0 +1,11 @@
+all/4step.cnf.gz
+all/5step.cnf.gz
+all/log-1.cnf.gz
+all/log-2.cnf.gz
+all/log-3.cnf.gz
+all/log-4.cnf.gz
+all/log-5.cnf.gz
+all/tire-1.cnf.gz
+all/tire-2.cnf.gz
+all/tire-3.cnf.gz
+all/tire-4.cnf.gz
