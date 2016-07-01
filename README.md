@@ -30,27 +30,9 @@ Occasionally a benchmark set includes the same benchmark in multiple different s
 
 ## Encodings
 
-The benchmarks are encoded in (extensions of) the standard DIMACS format for CNF formulas.
-The __basic__ benchmarks may include comments of the following form:
-
-    c ind 1 4 9 0
-    c ind 7 42 0
-
-The variables listed in such comments (between each `ind` and `0`) constitute an independent support of the formula, i.e., for every assignment to those variables there must be at most one extension to a complete satisfying assignment.
-Solvers may make use of this information, but need not do so.
-
-The __projection__ benchmarks also use this type of comments, but not to indicate an independent support.
-Instead, the specified variables comprise the projection variables of the problem, i.e., two models should be considered identical if they agree on these variables.
-This affects the model count and so solvers must read this information.
-
-Finally, the __weighted__ benchmarks specify weights with the syntax used by [Cachet](http://www.cs.rochester.edu/users/faculty/kautz/Cachet/Model_Counting_Benchmarks/index.htm):
-
-    w 1 0.4
-    w 21 -1
-
-This indicates that variable 1 has weight 0.4, and variable 21 is unweighted (this is also the default if a weight is not specified).
-Negative literals are assigned weights equal to 1 minus the corresponding positive literal weight.
-The __weighted__ benchmarks may have comments indicating an independent support; any variables not in the support will be unweighted.
+All three types of benchmarks are encoded in extensions of the standard DIMACS format for CNF formulas.
+The _README_ files in the __basic__, __projection__, and __weighted__ folders explain the extension used for the corresponding type of benchmark.
+All benchmarks have been compressed with _gzip_.
 
 ## Submitting Benchmarks
 
