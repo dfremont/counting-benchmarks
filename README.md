@@ -1,6 +1,6 @@
 # counting-benchmarks
 A collection of model counting (#SAT) benchmarks.
-If you have some interesting instances, please consider submitting them (see below)!
+If you have some interesting instances, please consider submitting them! See below for details.
 
 This repository lives at [http://tinyurl.com/countingbenchmarks](http://tinyurl.com/countingbenchmarks).
 
@@ -37,6 +37,6 @@ All benchmarks have been compressed with _gzip_.
 ## Submitting Benchmarks
 
 We are trying to put together a wide variety of benchmarks from as many sources as possible.
-If you would like to submit some new instances, either make a pull request or [contact me](https://math.berkeley.edu/~dfremont/contact.html) (but please don't attach large benchmarks to an email).
+If you would like to submit some new instances, [contact me](https://math.berkeley.edu/~dfremont/contact.html) (but please don't attach large benchmarks to an email).
 Remember to include a description of how the instances were generated.
 Thank you for contributing!
