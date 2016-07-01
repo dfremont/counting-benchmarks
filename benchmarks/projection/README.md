@@ -18,3 +18,4 @@ This is part of the problem definition, affecting the model count, and so solver
     * __pmc-symbolic-markov__: probabilistic model checking of symbolic Markov chains
 * __misc__
     * __misc-1__
+    * __misc-2__

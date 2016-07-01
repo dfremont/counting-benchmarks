@@ -14,6 +14,7 @@ See each subfolder for details on how each type of benchmark is encoded.
         * __pmc-symbolic-markov__: probabilistic model checking of symbolic Markov chains
     * __misc__
         * __misc-1__
+        * __misc-2__
 * __weighted__
     * __application__
         * __cachet-deterministic-qmr__: bipartite Bayes net inference problems from Cachet
