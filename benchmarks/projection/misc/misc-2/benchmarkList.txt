@@ -15,6 +15,7 @@ all/hash-11-5.cnf.gz
 all/hash-11-6.cnf.gz
 all/hash-11-7.cnf.gz
 all/hash-11-8.cnf.gz
+all/hash-11.cnf.gz
 all/hash-12-1.cnf.gz
 all/hash-12-2.cnf.gz
 all/hash-12-3.cnf.gz

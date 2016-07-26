@@ -415,6 +415,7 @@ projection/misc/misc-2/all/hash-11-5.cnf.gz
 projection/misc/misc-2/all/hash-11-6.cnf.gz
 projection/misc/misc-2/all/hash-11-7.cnf.gz
 projection/misc/misc-2/all/hash-11-8.cnf.gz
+projection/misc/misc-2/all/hash-11.cnf.gz
 projection/misc/misc-2/all/hash-12-1.cnf.gz
 projection/misc/misc-2/all/hash-12-2.cnf.gz
 projection/misc/misc-2/all/hash-12-3.cnf.gz
