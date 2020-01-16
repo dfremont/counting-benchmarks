@@ -37,6 +37,6 @@ All benchmarks have been compressed with _gzip_.
 ## Submitting Benchmarks
 
 We are trying to put together a wide variety of benchmarks from as many sources as possible.
-If you would like to submit some new instances, [contact me](https://math.berkeley.edu/~dfremont/contact.html) (but please don't attach large benchmarks to an email).
+If you would like to submit some new instances, [contact me](https://people.ucsc.edu/~dfremont/contact.html) (but please don't attach large benchmarks to an email).
 Remember to include a description of how the instances were generated.
 Thank you for contributing!

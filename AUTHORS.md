@@ -1,5 +1,5 @@
 # authors
-This repository is maintained by [Daniel Fremont](https://math.berkeley.edu/~dfremont/) and [Kuldeep Meel](http://kuldeepmeel.com).
+This repository is maintained by [Daniel Fremont](https://people.ucsc.edu/~dfremont/) and [Kuldeep Meel](https://www.comp.nus.edu.sg/~meel/).
 Many thanks are due to the people who have submitted benchmarks, or have made them publicly available, allowing us to include them in our collection.
 
 * Supratik Chakraborty

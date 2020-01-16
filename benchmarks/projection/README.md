@@ -15,7 +15,6 @@ This is part of the problem definition, affecting the model count, and so solver
 ## Benchmark sets
 
 * __application__
+    * __maxcount-qif__: Quantitative Information Flow (QIF) analysis using maximum model counting
     * __pmc-symbolic-markov__: probabilistic model checking of symbolic Markov chains
-* __misc__
-    * __misc-1__
-    * __misc-2__
+    * __symbolic-sygus__: counting programs during Syntax-Guided Synthesis (SyGuS)

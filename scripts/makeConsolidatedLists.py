@@ -7,6 +7,7 @@ benchmarkLists = {}
 for currentPath, directories, files, in os.walk('.', topdown=False):
 	# find lists one level down
 	sublists = []
+	directories.sort()
 	for dname in directories:
 		dirPath = os.path.join(currentPath, dname)
 		if dirPath in benchmarkLists:
